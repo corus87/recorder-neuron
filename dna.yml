@@ -1,0 +1,11 @@
+name: "recorder"
+type: "neuron"
+author: "corus87"
+
+kalliope_supported_version:
+    - 0.5
+
+tags:
+    - "recorder"
+    - "utils"
+    - "wave"
